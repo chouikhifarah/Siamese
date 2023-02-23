@@ -6,7 +6,7 @@ The aim oh this project is to provide a novel framework dedicated to desertifica
 The main contributions of SVAEDesert are:
 - SVAEDesert, a novel  framework dedicated to desertification detection from satellite images based on the Siamese Variational Autoencoder (SVAE) in order to reduce clustering errors, enhance feature extraction and conserve the spatial consistency of the extracted features.
 - An in-depth experimental evaluation to assess the behavior of the proposed framework in comparison with the Siamese Convolutional Neural Network (SCNN) and the Siamese Recurrent Network (SRNN) in the study area  covering arid regions in the south of Tunisia.
-- 
+
 <img src="Flowchart.png" width="500">
 
 ## Hardware and Software Requirements
