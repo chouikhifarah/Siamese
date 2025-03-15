@@ -1,6 +1,6 @@
 
 # SVAEDesert: Deep Learning Siamese algorithm for desertification detection
-This is a Python implementation of the paper : SVAEDesert: Siamese Variational Autoencoder for Desertification detection using satellite imagery.
+This is a Python implementation of the paper: SVAEDesert: Siamese Variational Autoencoder for Desertification detection using satellite imagery.
 
 The aim oh this project is to provide a novel framework dedicated to desertification detection from satellite images based on the Siamese5 Variational Autoencoder (SVAE).
 The main contributions of SVAEDesert are:
